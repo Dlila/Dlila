@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dlila
+- 👋 Hi, I’m @Lilatu Yaya
 - 👀 I’m interested in fullstack development
 - I am equally interested in datascience
 - 🌱 I’m currently learning software Engeineering
